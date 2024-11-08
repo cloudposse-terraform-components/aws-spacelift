@@ -1,9 +1,15 @@
 name: "aws-spacelift"
 # Canonical GitHub repo
 github_repo: "cloudposse-terraform-components/aws-spacelift"
-tags: []
+tags:
+  - layer/spacelift
+  - provider/aws
+  - provider/spacelift
 # Categories of this project
-categories: []
+categories:
+  - layer/spacelift
+  - provider/aws
+  - provider/spacelift
 # License of this project
 license: "APACHE2"
 # Badges to display
